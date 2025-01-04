@@ -1,6 +1,7 @@
 [package]
 name = "imacodr/flightpath"
 version = "0.1.0"
+authors = ["Sam Perillo <sam@perillo.dev>"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 

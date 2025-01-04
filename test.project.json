@@ -1,0 +1,20 @@
+{
+  "name": "FlightpathTesting",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Flightpath": {
+        "$path": "src"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "test"
+        }
+      }
+    }
+  }
+}
