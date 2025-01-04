@@ -116,7 +116,7 @@ end
 
 function Flightpath:SetTime(timePosition: number)
     if timePosition < 0 or timePosition > self.TimeLength then
-        error("TimePosition out of range")
+        error("Flightpath Error: TimePosition out of range")
     end
 
     self.TimePosition = timePosition
