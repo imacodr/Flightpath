@@ -1,4 +1,4 @@
-[![Frame 594|690x215](https://raw.githubusercontent.com/imacodr/Jetstream/main/assets/banner.png)](https://imacodr.github.io/Jetstream)
+[![Frame 594|690x215](https://raw.githubusercontent.com/imacodr/Flightplan/main/assets/banner.png)](https://imacodr.github.io/Jetstream/Flightpath/intro)
 
 <div align="center">
 
