@@ -12,7 +12,7 @@ This module enables you to load, play, and manage your Jetstream videos.
 
 [**Installation**](https://imacodr.github.io/Jetstream/Flightpath/installation)
 
-## with Wally
+### with Wally
 
 To install Flightpath with Wally add the following to your `wally.toml`
 
@@ -20,15 +20,17 @@ To install Flightpath with Wally add the following to your `wally.toml`
 Flightpath = "imacodr/flightpath@0.1.0"
 ```
 
-## with Roblox
+### with Roblox
 
 If you are preferably using Roblox Studio to develop code you can also install our module through the Roblox marketplace.
 
 [Roblox Module](https://create.roblox.com/store/asset/98399377763482/Flightpath?assetType=Model&externalSource=www)
 
-## with GitHub
+### with GitHub
 
 You can also install the module from [GitHub releases](https://github.com/imacodr/Flightpath/releases) easily.
+
+<hr />
 
 [**Help?**](https://discord.gg/UnDCJ6W7dw)
 
