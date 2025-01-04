@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[[📘Documentation]](https://imacodr.github.io/Jetstream/Flightpath/intro) | [[📁 Source Code]](https://github.com/imacodr/Flightpath)
+[[📘Documentation]](https://imacodr.github.io/Jetstream/flightpath/intro) | [[📁 Source Code]](https://github.com/imacodr/Flightpath)
 
 Flightpath is an extension to the 🚀 Jetstream CLI tool that simplifies the process of importing short videos as image frames into Roblox.
 
@@ -10,7 +10,7 @@ This module enables you to load, play, and manage your Jetstream videos.
 
 <hr />
 
-[**Installation**](https://imacodr.github.io/Jetstream/Flightpath/installation)
+[**Installation**](https://imacodr.github.io/Jetstream/flightpath/installation)
 
 ### with Wally
 
